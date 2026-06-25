@@ -6,9 +6,9 @@ An intelligent resume analysis tool built with Python and Gradio that automatica
 
 ## 📽️ Demo
 
-> Upload your resume PDF → Get instant skill detection + job role recommendations
+[> Upload your resume PDF → Get instant skill detection + job role recommendations
 
-![AI Resume Skill Analyzer Demo](resume_analyzer.mp4)
+![AI Resume Skill Analyzer Demo](resume_analyzer.mp4)](https://github.com/Manjiri15/AI-Resume-Skill-Analyzer/issues/2#issue-4742121328)
 
 ---
 
