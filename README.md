@@ -2,7 +2,7 @@
 
 An intelligent resume analysis tool built with Python and Gradio that automatically detects skills from a PDF resume, predicts suitable job roles, and provides direct job application links — all within a clean, mobile and desktop compatible web interface.
 
----
+--
 
 ##  Demo
 <img width="932" height="440" alt="image" src="https://github.com/user-attachments/assets/e15ebbd8-c0bf-4dfb-8dad-fb74a4139d13" />
