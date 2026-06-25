@@ -6,6 +6,7 @@ An intelligent resume analysis tool built with Python and Gradio that automatica
 
 ##  Demo
 <img width="932" height="440" alt="image" src="https://github.com/user-attachments/assets/e15ebbd8-c0bf-4dfb-8dad-fb74a4139d13" />
+<img width="901" height="404" alt="image" src="https://github.com/user-attachments/assets/366db9e8-823e-4e64-b3de-90ac36855c5a" />
 
 ## ✨ Features
 
